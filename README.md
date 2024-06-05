@@ -10,6 +10,10 @@ textannotate comes with several keyboard shortcuts to assist in annotation. You 
 2. `left arrow` and `right arrow` to move between records in your dataset.
 3. `s` to show or hide any long description. This is useful if you are annotating a dataset with titles and descriptions where you decide you don't need to see the description to make a classification.
 
+## Demo
+
+https://github.com/capjamesg/textannotate/assets/37276661/e9825108-e33c-40b1-b7bd-536d608bcb80
+
 ## How to Use
 
 First, install textannotate:
